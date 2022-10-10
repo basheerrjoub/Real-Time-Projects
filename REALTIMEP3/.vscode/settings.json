@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "local.h": "c",
+        "ipc.h": "c",
+        "sem.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
